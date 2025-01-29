@@ -1,0 +1,36 @@
+Columns taken from "Pricing Table" and "Agreement Data" Tables.
+
+1:  Customer Name
+2:  Name
+3:  Item
+4:  Description
+5:  Amount
+6:  Status
+7:  Support End Date NEW
+8:  Date
+9:  Completion Date
+10: Internal ID
+11: Duration
+12: Renewal Screening
+13: New Contract Duration
+14: Loss Adjustment
+15: Profitability assumed as Gross Margin, (In Calculations as well)
+16: Variance
+17: Variance Cushion
+
+------------------------------------------------------------------------------------------
+Could not find below columns in data
+
+1: Matching Project Count
+2: Agreement Expense
+3: Project Service Expense (After Completion Date)
+4: Original Project Amount
+5: OG agreement amount
+6: Project without agreement
+7: Agreement Total
+8: Agreement Count in Project ( There is on column called "Agreement Count and Projects" in "Pricing Table" Not sure if it is that one )
+9: Base Price
+10: Goal
+
+
+
